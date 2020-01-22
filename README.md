@@ -2,13 +2,26 @@
 
 ## 차례
 
-- [235C0001 말씀으로 생각을 변화시켜라](/Archive/235C0001.md)
-- [235C0002 새해는 어떻게 살까](/Archive/235C0002.md)
-- [235C1001 지혜로 하나님을 만나라](/Archive/235C1001.md)
+### CallingChurch
+
+- [말씀으로 생각을 변화시켜라](./CallingChurch/235C0001.md)
+- [새해는 어떻게 살까](./CallingChurch/235C0002.md)
+- [지혜로 하나님을 만나라](./CallingChurch/235C1001.md)
+- [그리스도인의 교제의 중요성](./CallingChurch/235C2001.md)
+- [빛 가운데 교제](./CallingChurch/235C0003.md)
+- [나사로입니까?](./CallingChurch/235C0004.md)
+- [여호와께서 미워하시는 것을 하지 말라](./CallingChurch/235C1002.md)
+
+### Development
+
+- [데몬 스레드](./Development/560J0001.md)
+- [스레드 그룹](./Development/560J0002.md)
 
 > 'C' : Church  
 > C0 : 예배  
-> C1 : 목장모임(셀모임)
+> C1 : 목장모임(셀모임)  
+> C2 : 주보 글귀
+> 'J' : Java
 
 ## 문서 번호 기준
 
